@@ -6,5 +6,6 @@ void b()
 	scanf("%d %d", &a, &b);
 	diff = a - b;
 	printf("Diff : %d", diff);
+	printf("sachin S G is -----")
 //return(0);
 }
